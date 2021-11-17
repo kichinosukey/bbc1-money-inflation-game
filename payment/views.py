@@ -33,8 +33,7 @@ from io import BytesIO
 
 # Prior to use this web application, please define a currency using API,
 # and put the mint_id here.
-MINT_ID = 'e6500c9aefa1dddb4295dcfa102e574497dfa83baefa117b9f34f654606f876f'
-# MINT_ID = '53a763fe0d3d04ae7cd0db64a1d0c06e8daa06af4503cd22f9236ca62a14c8b7'
+MINT_ID = '8b76d5814e94eb1837b53bbd2f502abb3dc7de68100ea98dbe0a5846a7f94dbf'
 
 # Put the initial amount when signed up here.
 INIT_AMOUNT = '1000'
